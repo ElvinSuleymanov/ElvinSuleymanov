@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Elvin. a Junior Web Developer
+Hi 👋, I'm Elvin. a Web Developer
 
 
 ## 🌐 Socials:
