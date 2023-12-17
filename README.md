@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi 👋, I'm Elvin. a Web Developer
 
 
 ## 🌐 Socials:
